@@ -7,7 +7,7 @@
 **AI & Web Developer · Full-Stack Architect · Prompt Engineer**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sachit--portfolio.vercel.app-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://sachit-portfolio.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-sachit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachit)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-sachit1751-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachit1751)
 [![Email](https://img.shields.io/badge/✉️_Email-sachit1751@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachit1751@gmail.com)
 
 <br/>
@@ -50,7 +50,7 @@ const sachit = {
 
 ![Gemini API](https://img.shields.io/badge/Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 ![Claude API](https://img.shields.io/badge/Claude_API-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![MCP](https://img.shields.io/badge/MCP-FF6B35?style=flat-square&logo=data MOSAIC&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-FF6B35?style=flat-square&logo=anthropic&logoColor=white)
 ![TensorFlow Lite](https://img.shields.io/badge/TensorFlow_Lite-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=white)
@@ -59,79 +59,6 @@ const sachit = {
 ![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 
 </div>
-
----
-
-## 🔥 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 [SKY ROMs](https://sky-roms.vercel.app)
-**Android Custom ROM Discovery & Management Platform**
-
-React · TypeScript · Supabase · Tailwind CSS
-
-A full-stack platform for discovering, comparing, and managing custom ROMs for Android devices. Features ROM discovery, device compatibility checks, user reviews, and download management.
-
-</td>
-<td width="50%" valign="top">
-
-### 🧠 [Sentience OS](#)
-**Custom Android Distribution with Local LLMs**
-
-AOSP · Kotlin · TensorFlow Lite
-
-Custom Android distribution with integrated local LLMs for proactive privacy hardening and context-aware automation. Pushing the boundaries of on-device AI.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏗️ [Nexus Core](#)
-**Next-Gen ERP for Distributed Teams**
-
-Next.js · Go · PostgreSQL · Redis · Socket.io
-
-Highly scalable enterprise resource planning system with real-time collaborative state management, automated resource allocation, and predictive scaling.
-
-</td>
-<td width="50%" valign="top">
-
-### 🔐 [Ghost Protocol](#)
-**E2EE Messaging Protocol**
-
-Rust · React Native · WebAssembly · Libp2p
-
-Military-grade end-to-end encrypted messaging with zero-knowledge proof identity verification and decentralized relay nodes.
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 📄 [Claude Document Summarizer](#)
-**AI-Powered Summarization Tool**
-
-Python · Claude API · Prompt Engineering · Prompt Caching
-
-Intelligent document summarization using Anthropic Claude API with advanced prompt engineering and prompt caching for efficiency.
-
-</td>
-<td width="50%" valign="top">
-
-### ⏰ [Schedule Planner](#)
-**Automation Engine for Tasks & Alerts**
-
-Python · Node.js · REST APIs
-
-Automated schedule planner and notification engine for managing tasks, recurring events, and sending alerts.
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -160,23 +87,15 @@ Automated schedule planner and notification engine for managing tasks, recurring
 
 ---
 
-## 🌱 Currently Building
-
-- **Portfolio v2** — 3D paper-themed interactive portfolio with WebGL shaders, procedural textures, and GSAP animations
-- **AI Agent Workflows** — Exploring MCP architectures and Claude API integrations
-- **Open Source Tools** — Building developer tools and automation scripts
-
----
-
 ## 📫 Let's Connect
 
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://sachit-portfolio.vercel.app)
 [![GitHub](https://img.shields.io/badge/🐙_GitHub-sachit1751--art-1a1917?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sachit1751-art)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-sachit-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachit)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-sachit1751-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachit1751)
 [![Email](https://img.shields.io/badge/✉️_Email-sachit1751@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachit1751@gmail.com)
-[![Instagram](https://img.shields.io/badge/📷_Instagram-sachit-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sachit)
+[![Instagram](https://img.shields.io/badge/📷_Instagram-sachit2097-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sachit2097)
 
 </div>
 

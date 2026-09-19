@@ -6,7 +6,7 @@
 
 **AI & Web Developer · Full-Stack Architect · Prompt Engineer**
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sachit--portfolio.vercel.app-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://sachit-portfolio.vercel.app)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sachit--portfolio.vercel.app-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://sachin-portfoli.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-sachit1751-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachit1751)
 [![Email](https://img.shields.io/badge/✉️_Email-sachit1751@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachit1751@gmail.com)
 

@@ -1,9 +1,14 @@
-<picture><source media="(max-width: 620px) and (prefers-color-scheme: dark)" srcset="assets/card-compact-dark.svg"><source media="(max-width: 620px)" srcset="assets/card-compact-light.svg"><source media="(prefers-color-scheme: dark)" srcset="assets/card-dark.svg"><img src="assets/card-light.svg" width="100%" alt="Sachit, student developer building AUDIFY"></picture>
+# Hey, I'm Sachit 👋
 
-I’m a student developer focused on building useful software and learning by shipping real projects. My current flagship project is **AUDIFY**, a music application spanning Android and desktop, with ongoing work across playback, playlists, synchronization and platform reliability.
+### `> building things that work.`
+
+**AI & Web Developer · Full-Stack Architect · Prompt Engineer**
+
+[Portfolio](https://sachin-portfoli.vercel.app/) ([![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-sachit--portfolio.vercel.app-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://sachin-portfoli.vercel.app/)) [LinkedIn](https://www.linkedin.com/in/sachit1751) ([![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-sachit1751-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachit1751)) [Email](mailto:sachit1751@gmail.com) ([![Email](https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-sachit1751%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachit1751@gmail.com))
+
+I build full-stack web applications, architect AI integrations, and automate workflows. Student developer learning by turning ideas into working projects.
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" width="100%" alt=""></picture>
-
 <h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/heading-projects-dark.svg"><img src="assets/heading-projects-light.svg" height="128" alt="Projects"></picture></h3>
 
 | Project | What it does | Built with |

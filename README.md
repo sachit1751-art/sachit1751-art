@@ -1,20 +1,23 @@
-<h1 align="center">Hey, I'm Sachit 👋</h1>
-<br>
+<div align="center">
 
-<h3 align="center"><code>&gt; building things that work.</code></h3>
-<br>
+# Hey, I'm Sachit 👋
 
-<p align="center"><strong>AI &amp; Web Developer · Full-Stack Architect · Prompt Engineer</strong></p>
-<br>
+### `> building things that work.`
 
-<p align="center">
-  <a href="https://sachin-portfoli.vercel.app/"><img src="https://img.shields.io/badge/%F0%9F%8C%90_PORTFOLIO-SACHIT--PORTFOLIO.VERCEL.APP-1a1917?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio"></a>
-  <a href="https://www.linkedin.com/in/sachit1751"><img src="https://img.shields.io/badge/%F0%9F%92%BC_LINKEDIN-SACHIT1751-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:sachit1751@gmail.com"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_EMAIL-SACHIT1751%40GMAIL.COM-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white" alt="Email"></a>
-</p>
+**AI & Web Developer · Full-Stack Architect · Prompt Engineer**
 
-<p align="center">I build full-stack web applications, architect AI integrations, and automate workflows. Student developer learning by turning ideas into working projects.</p>
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sachit--portfolio.vercel.app-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://sachin-portfoli.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-sachit1751-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachit1751)
+[![Email](https://img.shields.io/badge/✉️_Email-sachit1751@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachit1751@gmail.com)
 
+<br/>
+
+I build full-stack web applications, architect AI integrations, and automate workflows.
+Student developer learning by turning ideas into working projects.
+
+</div>
+
+---
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" width="100%" alt=""></picture>
 <h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/heading-projects-dark.svg"><img src="assets/heading-projects-light.svg" height="128" alt="Projects"></picture></h3>
 <br>

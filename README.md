@@ -32,7 +32,8 @@ Student developer learning by turning ideas into working projects.
 | [Termux Ultimate](https://github.com/sachit1751-art/Termux-ultimate) | One-command setup for a customized Termux development environment with shell tools, languages, themes and local AI utilities | Shell, Termux, Python, Node.js, Rust, Go |
 | [Osinct API Workspace](https://github.com/sachit1751-art/osinct-app) | Authenticated API workspace that sends queries to a configured API and displays its JSON response | React, TypeScript, Vite, Convex |
 | [InnerTubeX](https://github.com/sachit1751-art/innertubex) | Extended Kotlin Multiplatform client library for YouTube InnerTube APIs, including streaming and playback support | Kotlin, Kotlin Multiplatform |
-</picture>
+| [Chat on Steroids](https://github.com/sachit1751-art/chat-on-steroids) | Cross-platform local MCP tooling for ChatGPT, Chrome integration and multi-agent workflows | TypeScript, Node.js, browser automation |
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" width="100%" alt=""></picture>
 
 <h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/heading-stack-dark.svg"><img src="assets/heading-stack-light.svg" height="128" alt="Stack"></picture></h3>
 <br>

@@ -24,9 +24,15 @@ Student developer learning by turning ideas into working projects.
 
 | Project | What it does | Built with |
 | --- | --- | --- |
-| [AUDIFY](https://github.com/sachit1751-art/Audify) | Cross-platform music app, with Android and desktop clients; focused on playback, libraries, playlists and listening across devices | Kotlin, Jetpack Compose, TypeScript and project-specific tooling |
-
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" width="100%" alt=""></picture>
+| [AUDIFY](https://github.com/sachit1751-art/Audify) | Music player for Android, Android TV, Wear OS and desktop, with music discovery, local playback, synchronized lyrics and customizable controls | Kotlin, Jetpack Compose, TypeScript |
+| [MoneyPal](https://github.com/sachit1751-art/MoneyPal) | Android budget tracker for expenses, recurring payments, budget periods, reminders, widgets and Wear OS | Kotlin, Android, Jetpack Compose |
+| [SKY](https://github.com/sachit1751-art/SKY-website-v2) | Community hub for Android devices and custom ROMs, with device resources, flashing guidance and admin tools | React, TypeScript, Express, Tailwind CSS |
+| [ZNS Nexus](https://github.com/sachit1751-art/zns-nexuso) | Creative digital agency website with immersive motion design, interactive navigation and animated experiences | Next.js, React, GSAP |
+| [3D Portfolio](https://github.com/sachit1751-art/sachit-3d-portfolio) | Interactive developer portfolio with a tactile 3D paper experience, WebGL effects and physics-based motion | React, TypeScript, Three.js, GSAP |
+| [Termux Ultimate](https://github.com/sachit1751-art/Termux-ultimate) | One-command setup for a customized Termux development environment with shell tools, languages, themes and local AI utilities | Shell, Termux, Python, Node.js, Rust, Go |
+| [Osinct API Workspace](https://github.com/sachit1751-art/osinct-app) | Authenticated API workspace that sends queries to a configured API and displays its JSON response | React, TypeScript, Vite, Convex |
+| [InnerTubeX](https://github.com/sachit1751-art/innertubex) | Extended Kotlin Multiplatform client library for YouTube InnerTube APIs, including streaming and playback support | Kotlin, Kotlin Multiplatform |
+</picture>
 
 <h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/heading-stack-dark.svg"><img src="assets/heading-stack-light.svg" height="128" alt="Stack"></picture></h3>
 <br>

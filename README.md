@@ -61,3 +61,12 @@ See my [pull requests](https://github.com/pulls?q=is%3Apr+author%3Asachit1751-ar
 <br>
 
 <p><a href="https://github.com/sachit1751-art"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-github-dark.svg"><img src="assets/btn-github-light.svg" height="68" alt="GitHub"></picture></a><a href="https://www.linkedin.com/in/sachit1751"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" height="68" alt="LinkedIn"></picture></a><a href="mailto:sachit1751@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" height="68" alt="Email"></picture></a></p>
+
+
+---
+
+<div align="center">
+  
+![Profile Views](https://komarev.com/ghpvc/?username=sachit1761-art&color=blueviolet&style=flat-square)
+
+</div>

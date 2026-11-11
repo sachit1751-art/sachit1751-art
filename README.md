@@ -7,7 +7,7 @@
 **AI & Web Developer · Full-Stack Architect · Prompt Engineer**
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-sachit--portfolio.vercel.app-1a1917?style=for-the-badge&logo=vercel&logoColor=white)](https://sachin-portfoli.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-sachit1751-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachit1751)
+[![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-sachit-ai-dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sachit1751)
 [![Email](https://img.shields.io/badge/✉️_Email-sachit1751@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sachit1751@gmail.com)
 
 <br/>
@@ -57,10 +57,10 @@ See my [pull requests](https://github.com/pulls?q=is%3Apr+author%3Asachit1751-ar
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><img src="assets/divider-light.svg" width="100%" alt=""></picture>
 
-<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/heading-connect-dark.svg"><img src="assets/heading-connect-light.svg" height="128" alt="Connect"></picture></h3>
+<h3><picture><source media="(prefers-color-scheme: dark)" srcset="assets/heading-connect-dark.svg"><img src="assets/heading-connect-light.svg" height="128" alt="Connect"></pictured.></h3>
 <br>
 
-<p><a href="https://github.com/sachit1751-art"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-github-dark.svg"><img src="assets/btn-github-light.svg" height="68" alt="GitHub"></picture></a><a href="https://www.linkedin.com/in/sachit1751"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" height="68" alt="LinkedIn"></picture></a><a href="mailto:sachit1751@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" height="68" alt="Email"></picture></a></p>
+<p><a href="https://github.com/sachit1751-art"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-github-dark.svg"><img src="assets/btn-github-light.svg" height="68" alt="GitHub"></picture></a><a href="https://www.linkedin.com/in/sachit-ai-dev"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-linkedin-dark.svg"><img src="assets/btn-linkedin-light.svg" height="68" alt="LinkedIn"></picture></a><a href="mailto:sachit1751@gmail.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/btn-email-dark.svg"><img src="assets/btn-email-light.svg" height="68" alt="Email"></picture></a></p>
 
 
 ---
